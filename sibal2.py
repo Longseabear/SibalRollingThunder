@@ -8,8 +8,8 @@ from PyQt5.QtWidgets import *
 import random
 from PIL import ImageFont, ImageDraw, Image
 
-h = 640
-w = 480
+h = 480
+w = 640
 
 class string_object(object):
     def __init__(self, string):
